@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Kumar</h1>
 <h3 align="center">A passionate Backend and Application developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/60c13844-ef79-40a9-aaa9-e49674fbd73a" />
+<img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam103008&label=Profile%20views&color=0e75b6&style=flat" alt="sam103008" /> </p>
 
