@@ -1,4 +1,4 @@
-//![logo](https://github.com/Sam103008/Sam103008/blob/main/Screenshot%202024-12-07%20221222.png)
+[logo](https://github.com/Sam103008/Sam103008/blob/main/Screenshot%202024-12-07%20221222.png)
 <h1 align="center">Hi 👋, I'm Amar Kumar</h1>
 <h3 align="center">A passionate Backend and Application developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
