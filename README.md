@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amar Kumar</h1>
 
-<h3 align="center">A passionate Full Stack Web and Application developer from India</h3>
+<h3 align="center">A passionate Full Stack Web and Application developer from India.</h3>
+<h3 align="center">
+  <a href="mailto:officialamar736@gmail.com">
+    officialamar736@gmail.com
+  </a>
+</h3>
+<h3 align="center">https://portfolio-nu-two-gla5omv8qj.vercel.app/</h3>
+<h3 align="center">https://www.linkedin.com/itsamar09</h3>
+<h3 align="center">https://precious-mochi-274663.netlify.app/</h3>
 
 <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
 
