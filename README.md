@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Amar Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=𝗔ɱ🅰Γ%20қ𝗎ꮇმʀ&fontSize=35&animation=fadeIn" />
+</p>
 
-<h3 align="center">A passionate Full Stack Web and Application developer from India.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3500&pause=1200&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amar+Kumar;A+passionate+Full+Stack+Web+Developer;and+creative+Graphic+Designer+From+India+.;Open+Source+Enthusiast+💡" />
+</h1>
 <h3 align="center">
   <a href="mailto:officialamar736@gmail.com">
     officialamar736@gmail.com
   </a>
 </h3>
 <h3 align="center">https://portfolio-nu-two-gla5omv8qj.vercel.app/</h3>
-<h3 align="center">https://www.linkedin.com/itsamar09</h3>
 <h3 align="center">https://precious-mochi-274663.netlify.app/</h3>
 
 <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
@@ -19,12 +22,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/itsamar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsamar09" height="30" width="40" />
 </a>
-<a href="https://wa.me/917706021191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
+<a href="https://t.me/IamStranger" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" height="30" width="40" />
 </a>
 <a href="mailto:officialamar736@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="33" width="30" />
-</a>
-<a href="https://portfolio-nu-two-gla5omv8qj.vercel.app/" target="blank">𝗔ɱ🅰Γ қ𝗎ꮇმʀ
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
