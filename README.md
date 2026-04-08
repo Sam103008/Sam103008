@@ -17,7 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/itsamar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsamar09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsamar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsamar09" height="30" width="40" />
+</a>
+<a href="https://wa.me/917706021191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
+</a>
+<a href="mailto:officialamar736@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="33" width="30" />
+</a>
+<a href="https://https://portfolio-nu-two-gla5omv8qj.vercel.app/" target="blank">𝗔ɱ🅰Γ қ𝗎ꮇმʀ
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
