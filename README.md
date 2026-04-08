@@ -23,7 +23,7 @@
 </a>
 <a href="mailto:officialamar736@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="33" width="30" />
 </a>
-<a href="https://https://portfolio-nu-two-gla5omv8qj.vercel.app/" target="blank">𝗔ɱ🅰Γ қ𝗎ꮇმʀ
+<a href="https://portfolio-nu-two-gla5omv8qj.vercel.app/" target="blank">𝗔ɱ🅰Γ қ𝗎ꮇმʀ
 </a>
 </p>
 
