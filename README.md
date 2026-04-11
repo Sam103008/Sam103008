@@ -11,11 +11,13 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sam103008&label=Profile%20views&color=0e75b6&style=flat" alt="sam103008" />
-  <img src="https://img.shields.io/badge/Status-Active-0e75b6?style=style=flat&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-blue?style=flat" />
 </p>
-<p align="center">
-  <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
-</p>
+ 
+<img align="right" alt="coding" width="700" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
 
 🧑‍💻 **About Me:**
 - 🔭 **Currently working on:**  
@@ -31,29 +33,67 @@
   officialamar736@gmail.com  
 
 - 🌐 **Portfolio:**  
-  https://portfolio-nu-two-gla5omv8qj.vercel.app  
-
+  https://portfolio-nu-two-gla5omv8qj.vercel.app
+    
+- 🎭 **Graphic Design:**  
+  https://precious-mochi-274663.netlify.app
+  
 - ⚡ **Fun fact:**  
   I debug code at 2am and call it fun 😄
-  
 
-<h3 align="left">Connect with Me</h3>
+
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/itsamar09" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/IamStranger" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" height="35"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/telegram" height="40" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:officialamar736@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+## 🛠 Tech Stack
+ 
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
+ 
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+ 
+### 🔧 Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+ 
+
+
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 
 <p align="left">
@@ -83,40 +123,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=sam103008&show_icons=true&theme=default&bg_color=ffffff&title_color=0A2540&text_color=4A5568&icon_color=3B82F6&border_color=E5E7EB&border_radius=10" 
-       onerror="this.style.display='none'" />
-
-  <img width="49%" 
-       src="https://streak-stats.demolab.com?user=sam103008&theme=default&background=ffffff&ring=3B82F6&fire=3B82F6&currStreakLabel=0A2540&sideLabels=4A5568&dates=9CA3AF&border=E5E7EB&border_radius=10" 
-       onerror="this.style.display='none'" />
-</p>
-
-<p align="center">
-  <img width="50%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam103008&layout=compact&theme=default&bg_color=ffffff&title_color=0A2540&text_color=4A5568&border_color=E5E7EB&langs_count=8&border_radius=10" 
-       onerror="this.style.display='none'" />
-</p>
-
----
+</p> -->
+ 
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam103008&theme=github-light&area=true&hide_border=true&color=00F7FF&line=007BFF&point=00BFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam103008&theme=github-light&area=true&hide_border=true&color=00BFFF&line=007BFF&point=00F7FF&ts=<?=Date.now()?>" />
 </p>
 
 
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:007BFF,100:00F7FF&height=120&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:007BFF,100:00F7FF&height=150&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
