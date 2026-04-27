@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Collaborate-blue?style=flat" />
 </p>
  
-<img align="right" alt="coding" width="700" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
+<img align="right" alt="coding" width="680" src="https://github.com/user-attachments/assets/e7bd02cb-7324-441f-91f6-dba59aa4cc3d" />
 
 🧑‍💻 **About Me:**
 - 🔭 **Currently working on:**  
